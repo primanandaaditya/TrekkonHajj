@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Trekkon HAJJ</string>
+    <string name="submit">Submit</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="please_enter_your_phone_number">Please enter your phone number</string>
+    <string name="enter_code">Please enter code</string>
+    <string name="title_activity_peta">Peta</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
